@@ -1,0 +1,12 @@
+{
+  "name": "simple-ecommerce-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack simple e-commerce internship project",
+  "scripts": {
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend run start",
+    "seed": "npm --prefix backend run seed",
+    "install:backend": "npm --prefix backend install"
+  }
+}
